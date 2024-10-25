@@ -11,9 +11,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/unidoc/unioffice/internal/mergesort"
-	"github.com/unidoc/unioffice/internal/wildcard"
-	"github.com/unidoc/unioffice/spreadsheet/reference"
+	"github.com/jornInitor/unioffice/internal/mergesort"
+	"github.com/jornInitor/unioffice/internal/wildcard"
+	"github.com/jornInitor/unioffice/spreadsheet/reference"
 )
 
 func init() {

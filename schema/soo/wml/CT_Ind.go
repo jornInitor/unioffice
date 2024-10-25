@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/jornInitor/unioffice/schema/soo/ofc/sharedTypes"
 )
 
 type CT_Ind struct {

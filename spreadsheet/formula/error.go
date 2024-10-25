@@ -7,7 +7,7 @@
 
 package formula
 
-import "github.com/unidoc/unioffice/spreadsheet/update"
+import "github.com/jornInitor/unioffice/spreadsheet/update"
 
 // Error is an error expression.
 type Error struct {

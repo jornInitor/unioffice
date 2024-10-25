@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/unidoc/unioffice/document"
+	"github.com/jornInitor/unioffice/document"
 )
 
 func BenchmarkAddPara(b *testing.B) {

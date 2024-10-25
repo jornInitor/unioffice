@@ -12,7 +12,7 @@ package extended_properties
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
+	"github.com/jornInitor/unioffice"
 )
 
 type CT_DigSigBlob struct {

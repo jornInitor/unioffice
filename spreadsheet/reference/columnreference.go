@@ -12,7 +12,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/unidoc/unioffice/spreadsheet/update"
+	"github.com/jornInitor/unioffice/spreadsheet/update"
 )
 
 // ColumnReference is a parsed reference to a column.  Input is of the form 'A',

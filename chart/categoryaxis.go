@@ -8,10 +8,10 @@
 package chart
 
 import (
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/drawing"
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	crt "github.com/unidoc/unioffice/schema/soo/dml/chart"
+	"github.com/jornInitor/unioffice/color"
+	"github.com/jornInitor/unioffice/drawing"
+	"github.com/jornInitor/unioffice/schema/soo/dml"
+	crt "github.com/jornInitor/unioffice/schema/soo/dml/chart"
 )
 
 type CategoryAxis struct {

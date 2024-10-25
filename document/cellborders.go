@@ -8,9 +8,9 @@
 package document
 
 import (
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/jornInitor/unioffice/color"
+	"github.com/jornInitor/unioffice/measurement"
+	"github.com/jornInitor/unioffice/schema/soo/wml"
 )
 
 // CellBorders are the borders for an individual

@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/urn/schemas_microsoft_com/office/powerpoint"
+	"github.com/jornInitor/unioffice/schema/urn/schemas_microsoft_com/office/powerpoint"
 )
 
 func TestCT_EmptyConstructor(t *testing.T) {

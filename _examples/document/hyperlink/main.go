@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/document"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/jornInitor/unioffice/color"
+	"github.com/jornInitor/unioffice/document"
+	"github.com/jornInitor/unioffice/schema/soo/wml"
 )
 
 func main() {

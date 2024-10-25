@@ -12,7 +12,7 @@ package chartDrawing
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
+	"github.com/jornInitor/unioffice"
 )
 
 type EG_ObjectChoicesChoice struct {

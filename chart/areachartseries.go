@@ -8,9 +8,9 @@
 package chart
 
 import (
-	"github.com/unidoc/unioffice/drawing"
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	crt "github.com/unidoc/unioffice/schema/soo/dml/chart"
+	"github.com/jornInitor/unioffice/drawing"
+	"github.com/jornInitor/unioffice/schema/soo/dml"
+	crt "github.com/jornInitor/unioffice/schema/soo/dml/chart"
 )
 
 // AreaChartSeries is a series to be used on an area chart.

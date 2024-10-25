@@ -12,8 +12,8 @@ package vml
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/jornInitor/unioffice"
+	"github.com/jornInitor/unioffice/schema/soo/ofc/sharedTypes"
 )
 
 type OfcOLEObject struct {

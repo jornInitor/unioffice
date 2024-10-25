@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/pkg/relationships"
+	"github.com/jornInitor/unioffice/schema/soo/pkg/relationships"
 )
 
 func TestCT_RelationshipsConstructor(t *testing.T) {

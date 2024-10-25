@@ -7,7 +7,7 @@
 
 package formula
 
-import "github.com/unidoc/unioffice/spreadsheet/update"
+import "github.com/jornInitor/unioffice/spreadsheet/update"
 
 // Negate is a negate expression like -A1.
 type Negate struct {

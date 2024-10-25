@@ -12,7 +12,7 @@ package spreadsheetDrawing
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
+	"github.com/jornInitor/unioffice"
 )
 
 type CT_TwoCellAnchor struct {

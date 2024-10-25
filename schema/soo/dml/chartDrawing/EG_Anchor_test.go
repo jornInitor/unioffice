@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/dml/chartDrawing"
+	"github.com/jornInitor/unioffice/schema/soo/dml/chartDrawing"
 )
 
 func TestEG_AnchorConstructor(t *testing.T) {

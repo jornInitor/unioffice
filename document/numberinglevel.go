@@ -8,8 +8,8 @@
 package document
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/jornInitor/unioffice"
+	"github.com/jornInitor/unioffice/schema/soo/wml"
 )
 
 // NumberingLevel is the definition for numbering for a particular level within

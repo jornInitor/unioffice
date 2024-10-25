@@ -13,8 +13,8 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/purl.org/dc/elements"
+	"github.com/jornInitor/unioffice"
+	"github.com/jornInitor/unioffice/schema/purl.org/dc/elements"
 )
 
 type ElementsAndRefinementsGroupChoice struct {

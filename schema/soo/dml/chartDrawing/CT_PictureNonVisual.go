@@ -12,8 +12,8 @@ package chartDrawing
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/jornInitor/unioffice"
+	"github.com/jornInitor/unioffice/schema/soo/dml"
 )
 
 type CT_PictureNonVisual struct {

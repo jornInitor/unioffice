@@ -8,7 +8,7 @@
 package document
 
 import (
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/jornInitor/unioffice/schema/soo/wml"
 )
 
 // Footnote is an individual footnote reference within the document.

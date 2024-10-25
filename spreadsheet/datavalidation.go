@@ -8,8 +8,8 @@
 package spreadsheet
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/sml"
+	"github.com/jornInitor/unioffice"
+	"github.com/jornInitor/unioffice/schema/soo/sml"
 )
 
 // DataValidation controls cell validation

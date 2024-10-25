@@ -13,8 +13,8 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/ofc/math"
+	"github.com/jornInitor/unioffice"
+	"github.com/jornInitor/unioffice/schema/soo/ofc/math"
 )
 
 type CT_Tbl struct {

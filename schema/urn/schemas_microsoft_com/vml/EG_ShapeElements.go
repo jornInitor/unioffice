@@ -12,10 +12,10 @@ package vml
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/urn/schemas_microsoft_com/office/excel"
-	"github.com/unidoc/unioffice/schema/urn/schemas_microsoft_com/office/powerpoint"
-	"github.com/unidoc/unioffice/schema/urn/schemas_microsoft_com/office/word"
+	"github.com/jornInitor/unioffice"
+	"github.com/jornInitor/unioffice/schema/urn/schemas_microsoft_com/office/excel"
+	"github.com/jornInitor/unioffice/schema/urn/schemas_microsoft_com/office/powerpoint"
+	"github.com/jornInitor/unioffice/schema/urn/schemas_microsoft_com/office/word"
 )
 
 type EG_ShapeElements struct {

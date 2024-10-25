@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/urn/schemas_microsoft_com/vml"
+	"github.com/jornInitor/unioffice/schema/urn/schemas_microsoft_com/vml"
 )
 
 func TestOfcSignaturelineConstructor(t *testing.T) {

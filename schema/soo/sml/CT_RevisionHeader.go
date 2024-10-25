@@ -15,8 +15,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/jornInitor/unioffice"
+	"github.com/jornInitor/unioffice/schema/soo/ofc/sharedTypes"
 )
 
 type CT_RevisionHeader struct {

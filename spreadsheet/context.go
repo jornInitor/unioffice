@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/unidoc/unioffice/spreadsheet/formula"
-	"github.com/unidoc/unioffice/spreadsheet/reference"
+	"github.com/jornInitor/unioffice/spreadsheet/formula"
+	"github.com/jornInitor/unioffice/spreadsheet/reference"
 )
 
 func newEvalContext(s *Sheet) *evalContext {

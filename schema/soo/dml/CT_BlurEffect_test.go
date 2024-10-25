@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/jornInitor/unioffice/schema/soo/dml"
 )
 
 func TestCT_BlurEffectConstructor(t *testing.T) {

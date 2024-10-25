@@ -8,11 +8,11 @@
 package document
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/measurement"
-	pic "github.com/unidoc/unioffice/schema/soo/dml/picture"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/jornInitor/unioffice"
+	"github.com/jornInitor/unioffice/common"
+	"github.com/jornInitor/unioffice/measurement"
+	pic "github.com/jornInitor/unioffice/schema/soo/dml/picture"
+	"github.com/jornInitor/unioffice/schema/soo/wml"
 )
 
 // AnchoredDrawing is an absolutely positioned image within a document page.

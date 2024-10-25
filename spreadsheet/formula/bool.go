@@ -10,8 +10,8 @@ package formula
 import (
 	"strconv"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/spreadsheet/update"
+	"github.com/jornInitor/unioffice"
+	"github.com/jornInitor/unioffice/spreadsheet/update"
 )
 
 // Bool is a boolean expression.

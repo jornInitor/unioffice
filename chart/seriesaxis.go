@@ -7,7 +7,7 @@
 
 package chart
 
-import crt "github.com/unidoc/unioffice/schema/soo/dml/chart"
+import crt "github.com/jornInitor/unioffice/schema/soo/dml/chart"
 
 type SeriesAxis struct {
 	x *crt.CT_SerAx

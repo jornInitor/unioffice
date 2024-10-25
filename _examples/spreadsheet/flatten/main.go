@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/unidoc/unioffice/spreadsheet"
-	"github.com/unidoc/unioffice/spreadsheet/formula"
+	"github.com/jornInitor/unioffice/spreadsheet"
+	"github.com/jornInitor/unioffice/spreadsheet/formula"
 )
 
 func main() {

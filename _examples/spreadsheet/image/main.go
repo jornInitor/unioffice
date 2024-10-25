@@ -5,9 +5,9 @@ import (
 	"log"
 	"math"
 
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/spreadsheet"
+	"github.com/jornInitor/unioffice/common"
+	"github.com/jornInitor/unioffice/measurement"
+	"github.com/jornInitor/unioffice/spreadsheet"
 )
 
 func main() {

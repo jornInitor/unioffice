@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/pkg/content_types"
+	"github.com/jornInitor/unioffice/schema/soo/pkg/content_types"
 )
 
 func TestOverrideConstructor(t *testing.T) {

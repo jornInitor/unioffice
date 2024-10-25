@@ -8,7 +8,7 @@
 package spreadsheet
 
 import (
-	"github.com/unidoc/unioffice/schema/soo/sml"
+	"github.com/jornInitor/unioffice/schema/soo/sml"
 )
 
 // DVCompareType is a comparison type for a data validation rule. This restricts

@@ -20,17 +20,17 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/common/license"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/zippkg"
+	"github.com/jornInitor/unioffice"
+	"github.com/jornInitor/unioffice/color"
+	"github.com/jornInitor/unioffice/common"
+	"github.com/jornInitor/unioffice/common/license"
+	"github.com/jornInitor/unioffice/measurement"
+	"github.com/jornInitor/unioffice/zippkg"
 
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	st "github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/soo/pkg/relationships"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/jornInitor/unioffice/schema/soo/dml"
+	st "github.com/jornInitor/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/jornInitor/unioffice/schema/soo/pkg/relationships"
+	"github.com/jornInitor/unioffice/schema/soo/wml"
 )
 
 // Document is a text document that can be written out in the OOXML .docx
@@ -1150,14 +1150,14 @@ func (d Document) Bookmarks() []Bookmark {
 }
 
 // SetConformance sets conformance attribute of the document
-// as one of these values from github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes:
+// as one of these values from github.com/jornInitor/unioffice/schema/soo/ofc/sharedTypes:
 // ST_ConformanceClassUnset, ST_ConformanceClassStrict or ST_ConformanceClassTransitional.
 func (d Document) SetConformance(conformanceAttr st.ST_ConformanceClass) {
 	d.x.ConformanceAttr = conformanceAttr
 }
 
 // SetStrict is a shortcut for document.SetConformance,
-// as one of these values from github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes:
+// as one of these values from github.com/jornInitor/unioffice/schema/soo/ofc/sharedTypes:
 // ST_ConformanceClassUnset, ST_ConformanceClassStrict or ST_ConformanceClassTransitional.
 func (d Document) SetStrict(strict bool) {
 	if strict {

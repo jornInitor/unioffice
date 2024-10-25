@@ -21,17 +21,17 @@ import (
 	"os"
 	"path"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/common/license"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	crt "github.com/unidoc/unioffice/schema/soo/dml/chart"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/soo/pkg/relationships"
-	"github.com/unidoc/unioffice/schema/soo/pml"
-	"github.com/unidoc/unioffice/zippkg"
+	"github.com/jornInitor/unioffice"
+	"github.com/jornInitor/unioffice/color"
+	"github.com/jornInitor/unioffice/common"
+	"github.com/jornInitor/unioffice/common/license"
+	"github.com/jornInitor/unioffice/measurement"
+	"github.com/jornInitor/unioffice/schema/soo/dml"
+	crt "github.com/jornInitor/unioffice/schema/soo/dml/chart"
+	"github.com/jornInitor/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/jornInitor/unioffice/schema/soo/pkg/relationships"
+	"github.com/jornInitor/unioffice/schema/soo/pml"
+	"github.com/jornInitor/unioffice/zippkg"
 )
 
 // Presentation is the a presentation base document.
